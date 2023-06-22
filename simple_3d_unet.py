@@ -3,7 +3,7 @@
 """
 Created on Mon Dec 12 07:11:30 2022
 
-@author: neda
+@author: john
 """
 
 from keras.models import Model
